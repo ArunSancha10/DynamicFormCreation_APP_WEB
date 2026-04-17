@@ -31,4 +31,3 @@ app.MapControllerRoute(
     .WithStaticAssets();
 
 app.Run();
-//test 123
